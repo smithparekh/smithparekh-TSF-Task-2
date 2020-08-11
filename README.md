@@ -1,4 +1,4 @@
-# smithparekh-TSF-Task-2
+# Intern at Spark foundation 
 
 
 Simple Linear Regression Project
